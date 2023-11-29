@@ -1,0 +1,12 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/MurphLaws/murphlaws.github.io.git
+	branch = main
+[submodule "digitalGarden/live"]
+	path = digitalGarden/live
+	url = https://github.com/MurphLaws/digitalGarden.git
+	branch = main
+[submodule "digitalGarden/public"]
+	path = digitalGarden/public
+	url = https://github.com/MurphLaws/murphlaws-github.io
+	branch = main
