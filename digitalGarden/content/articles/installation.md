@@ -7,7 +7,7 @@ images:
 
 Create a new hugo website or open your existing hugo site.
 
-#### Add the theme to your hugo site
+#### Add the theme to your hugo site TEST
 
 Use as a git submodule:
 
